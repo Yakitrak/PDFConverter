@@ -54,4 +54,3 @@ def convertDOC(files, formatType=17):
     word.Quit()
 
 main()
-
